@@ -4,41 +4,21 @@ layout: default
 nav_order: 1
 ---
 
-# Maecenas porta lectus ante, nec laoreet risus aliquam ut.
 
-Lorem ipsum dolor sit amet, [consectetur adipiscing elit](http://google.com).  Suspendisse nunc diam, tincidunt eu vulputate nec, volutpat ac ante. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur maximus mauris ac diam vehicula convallis. Fusce cursus lacus metus, a pulvinar tortor elementum a. Ut rhoncus justo magna, id aliquam nulla rhoncus ut. Quisque rutrum turpis vel elementum facilisis. 
+In the article “Four Decades of Island Area Change Across Tuvalu” by CO2 Science, the author argues that Tuvalu residents are not in danger of becoming climate refugees (CO2 Science, 2020). The article acknowledges that this region of the Earth has been experiencing rising sea levels twice the rate compared to the rest of the world. The authors state up until now, many thought Tuvalu’s citizens would most likely become the world’s first climate refugees, as the rising waters will cause flooding. The argument is introduced by discussing a peer-reviewed article out of New Zealand. The New Zealand researchers used historical aerial photographs and satellite images with over 43 years of data to find most islands in the study area had experienced a net increase of area. Tuvalu has specifically had a net gain of 73.5 ha of land over that time period, equal to 2.9% of its land. The article concludes by saying that these observations show that the island is not threatened by climate change due to the increase of land and that “… climate alarmists have ridiculously portrayed Tuvalu”.  
+
+This article was written and published by CO2 Science in December of 2020, making this a recent publication; however, the paper cited was originally published in 2018. The organization’s goal is to share new reports about increasing atmospheric CO2 and help readers understand the reality in the “emotionally charged debate of climate change.” The website presents the authors as well-educated individuals, most of whom have a Ph.D. on the topic of energy. Additionally, the writers have industry experience working for companies in the energy sector. I found this article intriguing as Tuvalu has long been the poster child for climate change, but this article stated otherwise. When I continued reading, I found the claim interesting as there was a peer-reviewed paper supporting the claims that the authors were making. However, upon further research, I think the CO2 Science claim is too good to be true. 
+
+The study that CO2 Science cites shows that these islands are dynamic, and perhaps the threat of flooding to Tuvalu may be less severe than initially thought. However, I do not believe that it is valid to say Tuvalu is not threatened by climate change just because one study showed a net increase of land. In fact, some studies still think that the reef accretion rates may not be able to keep up with the rate of sea-level rise that the area is experiencing (Perry et al., 2018). The CO2 authors also failed to acknowledge that Tuvalu’s islands feel more than just on pressure from climate change. Storms can have devastating effects on the islands due to their small size and vulnerability. Many predict that as climate change increases the frequency and severity of storms, most of the atoll islands will become uninhabitable in a few decades (Storlazzi et al., 2018). Therefore, it is not accurate to state that just because land accretion may be faster than sea-level rise, Tuvalu is safe from the threat climate change poses. 
+
+When one first evaluates the source “Four Decades of Island Area Change Across Tuvalu” one may believe that the article is reputable. However, after looking at the science behind the claims, it becomes clear that things do not add up, and the article lacks accuracy, validity and plausibility. Science points to say that the original claim may not be accurate, and climate change is multi-faceted. Unfortunately, a 2.9% land increase is most likely not enough to protect the vulnerable islands from climate change. The citizens of Tuvalu may still become the world’s first climate change refugees. 
  
-## Donec ultricies, 
+## Works cited: 
+
+CO2 Science, 2020. Four Decades of Island Area Change Across Tuvalu. CO2 Science. Available at: <http://www.co2science.org/articles/V23/dec/a7.php> [Accessed 25 Jan. 2021].
+
+Perry, C.T., Alvarez-Filip, L., Graham, N.A.J., Mumby, P.J., Wilson, S.K., Kench, P.S., Manzello, D.P., Morgan, K.M., Slangen, A.B.A., Thomson, D.P., Januchowski-Hartley, F., Smithers, S.G., Steneck, R.S., Carlton, R., Edinger, E.N., Enochs, I.C., Estrada-Saldívar, N., Haywood, M.D.E., Kolodziej, G., Murphy, G.N., Pérez-Cervantes, E., Suchley, A., Valentino, L., Boenish, R., Wilson, M. and Macdonald, C., 2018. Loss of coral reef growth capacity to track future increases in sea level. Nature, 558(7710), pp.396–400.
+
+Storlazzi, C.D., Gingerich, S.B., Dongeren, A. van, Cheriton, O.M., Swarzenski, P.W., Quataert, E., Voss, C.I., Field, D.W., Annamalai, H., Piniak, G.A. and McCall, R., 2018. Most atolls will be uninhabitable by the mid-21st century because of sea-level rise exacerbating wave-driven flooding. Science Advances, 4(4), p.eaap9741.
 orci ultricies egestas luctus, mauris mauris luctus metus, placerat pulvinar libero erat id purus. Nullam a velit viverra mauris hendrerit viverra in at massa. Donec et porttitor ipsum, dapibus fermentum massa.
 
-* Aenean quis ligula tempor, gravida urna nec, aliquet ipsum. 
-* Aliquam sodales orci arcu, ac feugiat justo dignissim ac. 
-* Quisque porttitor ac lectus et faucibus. Donec mattis sem at lectus volutpat, ac rhoncus lectus auctor. 
-
-- In sit amet egestas lectus, ut congue orci. 
-- Pellentesque vitae consectetur quam. Curabitur diam erat, interdum sit amet vulputate a, condimentum vel leo. 
-- Morbi quis magna dictum diam aliquet hendrerit ac quis diam.
-
-1. Suspendisse eget venenatis enim. 
-2. Morbi ut pretium massa. Duis ac lacinia elit. 
-3. Nunc venenatis felis nec blandit tristique. 
-
-**Pellentesque** *congue* **magna** *eget* ante scelerisque tempus. Cras vestibulum, ex id viverra pharetra, ante lacus suscipit sapien, quis cursus leo est ac mi. Aliquam vel lorem imperdiet, mollis orci ut, scelerisque mauris. Praesent ultricies ex turpis, ac tincidunt libero pellentesque in.
-
-### Fusce imperdiet, odio ac ultrices ultrices, 
-
-est urna malesuada orci, sit amet malesuada tellus nunc quis elit. 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
-Vivamus at urna dignissim, tempus nunc fermentum, vehicula sapien. Praesent ornare sollicitudin porta. Curabitur eu ipsum hendrerit, sagittis turpis eget, interdum lacus. Mauris tempus consectetur orci, eget lacinia nisl aliquam sed. Donec augue dolor, commodo et tempus sit amet, ultricies ac elit. Mauris felis magna, consequat et pharetra et, bibendum vel purus. Aliquam ullamcorper, augue vestibulum feugiat tristique, justo lacus cursus nibh, at fermentum sapien tellus a sapien. Nam ultricies volutpat nisl, sit amet posuere tortor condimentum at. Sed pharetra tempus mi, vel condimentum diam finibus ut. Nam et ex id urna auctor pulvinar. Suspendisse tincidunt odio vitae porttitor fermentum. Cras eget mauris iaculis, condimentum elit a, pretium ipsum. Maecenas ante velit, scelerisque pellentesque dui non, congue pretium risus. Mauris suscipit sem non gravida rutrum. Integer dictum condimentum urna ac finibus.
-
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
-
-``` 
-y = x^2 + 9x + 23 
-```
-
-Ut eu libero eu augue pretium faucibus sed tempus neque. Donec quis eros suscipit metus hendrerit viverra. In hac habitasse platea dictumst. Morbi eleifend nisi in faucibus ultrices. Quisque sed fringilla sem. Vestibulum bibendum urna dignissim tincidunt consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sagittis leo ut lorem feugiat, ac facilisis magna rutrum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Cras blandit molestie velit. Suspendisse vitae tristique massa, nec eleifend justo. Quisque suscipit nibh a volutpat vulputate. Curabitur suscipit vitae lacus quis tempor. Aliquam nibh eros, eleifend id quam quis, euismod lobortis elit. Sed egestas eu lacus vel ornare. Donec nibh mi, egestas et tincidunt eu, fringilla et diam.a
