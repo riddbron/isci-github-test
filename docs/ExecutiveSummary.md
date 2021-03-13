@@ -18,7 +18,7 @@ Provincial/territorial policies link federal goals, initiatives, and funds with 
 ### Municipal
 Municipalities are on the front lines of the fight against climate change. Municipal governments influence half the country’s GHG emissions and own about 60% of public infrastructure (Federation of Canadian Municipalities, 2021). Municipal governments must discuss climate change consequences to encourage community involvement in the climate action planning process (Bowron and Davidson, 2011). This process uses a proactive approach to develop policies that reflect Canadians’ needs, and improve economic and social activities while increasing environmental quality (Association of Municipalities Ontario, 2018). Small changes in climate can have large impacts for existing infrastructure so policies need to ensure regular maintenance to keep them dependable, safe, and able to withstand future weather events (Mehdi, Mrena and Douglas, 2006; Association of Municipalities Ontario, 2018).
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/docs/fig3.png)
 Format: ![Alt Text](url)
 
 ### Analysis
