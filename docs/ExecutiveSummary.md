@@ -30,8 +30,9 @@ Analysis of current Canadian policies at different levels of government revealed
 3. Municipalities are not legally required to create or implement climate action policies. This means that there is no guarantee a policy will be made or action will be taken. 
 4. At the federal and provincial/territorial levels, there is a lack of accountability and progress checks to determine if new policies are meeting national goals. 
 
+
 ### Conclusion
-Canada is dedicated to fighting climate change despite the lack of clarity and accountability surrounding climate policies. It is therefore crucial that Canadians and their government must work together to create effective policies that account for varying economic, sociopolitical, and cultural needs to and protect communities for the future. As policies are improved, more opportunities for citizens to be involved in the fight against climate change will arise beyond those already available.
+Canada is dedicated to fighting climate change despite the lack of clarity and accountability surrounding climate policies. It is crucial that Canadians and their government work together to create effective policies and protect communities for the future. As policies are improved, more opportunities for Canadians to be involved in the fight against climate change will arise beyond those already available.
 
 ### Works cited: 
 Advisory Council of Economic Growth, 2017. The Path to Prosperity: Resetting Canada’s Growth Trajectory.
