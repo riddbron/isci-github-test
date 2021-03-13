@@ -1,30 +1,25 @@
----
-title: <Executive Summary>
-layout: default
-nav_order: 1
----
-#Executive Summary
+# Executive Summary
 
-##Introduction
+## Introduction
 The main concern of climate change impacts in Canada is the risk to physical infrastructure from extreme weather events, such as heavy precipitation and high winds (Council of Canadian Academies, 2019). Due to Canada’s northern climate, homes and buildings use a large amount of energy for heating buildings which creates excess greenhouse gas (GHG) emissions and increases living prices. All levels of government must collaborate to create effective policies that protect infrastructure (Intergovernmental Panel on Climate Change, 2014). Federal and provincial/territorial policies trickle down to the municipal level where action plans are implemented. Results from an analysis of this process are summarized through a discussion of current government programs and policy-making considerations. 
 
-##Federal
+## Federal
 The newest climate change policy that the Government of Canada released in 2020 contains three major action steps to improve infrastructure. First, funding is available, such as $5,000 grants for homeowners to offset the expense of renovating homes to increase energy efficiency. Second, a net-zero energy building code is under development to ensure new buildings are energy-efficient. Finally, the building sector in Canada is evolving to support a low-emission building materials supply chain by creating locally-sourced products and using low-carbon cement, among other initiatives. These actions will help facilitate job creation, increase provincial/territorial GDP, and meet the 30% GHG emissions reduction goal, as outlined in the International Paris Agreement (Environment and Climate Change Canada, 2020).
 
-##Provincial/Territorial
+## Provincial/Territorial
 Provincial/territorial policies link federal goals, initiatives, and funds with municipal action plans through the Pan-Canadian Framework on Clean Growth and Climate Change. This climate action plan allows all levels of government to communicate with each other and develop policies that are specific to the provinces’ and territories’ unique needs. Provinces and territories provide municipalities with policy-making guidelines and allocate federal funding towards municipal projects, such as incentivizing energy-efficient buildings (Environment and Climate Change Canada, 2016). Provincial/territorial policy is therefore necessary for integrating all government levels.  
 
-##Municipal
+## Municipal
 Municipalities are on the front lines of the fight against climate change. Municipal governments influence half the country’s GHG emissions and own about 60% of public infrastructure (Federation of Canadian Municipalities, 2021). Municipal governments must discuss climate change consequences to encourage community involvement in the climate action planning process (Bowron and Davidson, 2011). This process uses a proactive approach to develop policies that reflect Canadians’ needs, and improve economic and social activities while increasing environmental quality (Association of Municipalities Ontario, 2018). Small changes in climate can have large impacts for existing infrastructure so policies need to ensure regular maintenance to keep them dependable, safe, and able to withstand future weather events (Mehdi, Mrena and Douglas, 2006; Association of Municipalities Ontario, 2018).
 
-##Analysis
+## Analysis
 Analysis of current Canadian policies at different levels of government revealed the following insights:
 1. Policies and their inconsistencies are informed by national goals and trickle down government levels. 
 2. There is poor communication and coordination between levels. This burdens individual municipalities with the responsibility of leading frontline efforts because they provide essential services.  
 3. Municipalities are not legally required to create or implement climate action policies. This means that there is no guarantee a policy will be made or action will be taken. 
 4. At the federal and provincial/territorial levels, there is a lack of accountability and progress checks to determine if new policies are meeting national goals. 
 
-##Conclusion
+## Conclusion
 Canada is dedicated to fighting climate change despite the lack of clarity and accountability surrounding climate policies. It is therefore crucial that Canadians and their government must work together to create effective policies that account for varying economic, sociopolitical, and cultural needs to and protect communities for the future. As policies are improved, more opportunities for citizens to be involved in the fight against climate change will arise beyond those already available.
 
 ## Works cited: 
